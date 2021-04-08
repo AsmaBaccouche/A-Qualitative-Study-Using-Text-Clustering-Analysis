@@ -1,4 +1,4 @@
-# A-Qualitative-Study-of-Speed-School-of-Engineering-Publications-Using-Text-Clustering-Analysis
+# A-Qualitative-Study-Using-Text-Clustering-Analysis
 
 Text clustering is an important task for effectively organizing, summarizing and qualifying text
 information. Due to the sparseness of the traditional text representation, short text clustering has
