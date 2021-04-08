@@ -10,6 +10,10 @@ domains/departments, in order to emphasize the interaction between the different
 of Speed School of Engineering (UofL) departments.
 Our framework provides a comparative analysis of the methods and an evaluation of the experimental results.
 
+Word-cloud Chart:
+
+![image](https://user-images.githubusercontent.com/51833664/113954835-9b618b00-97e8-11eb-815f-270598603d79.png)
+
 In this project, we implemented an improved clustering analysis algorithms for text
 categorization, using an efficient text representation. The methods included a comparison of the k-means
 algorithm with the GMM text representation and the interpretation of the topic modeling results after
